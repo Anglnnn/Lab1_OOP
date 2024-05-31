@@ -1,0 +1,13 @@
+
+
+java:S1192&"LDefine a constant instead of duplicating this literal "isBlacklist" 3 times.(œ´±­8ú À×ú1J$dddf5a1d-9e12-4e84-9b79-7efe05634086
+ˆ
+java:S1192%"FDefine a constant instead of duplicating this literal "login" 3 times.(“ÿˆ68Üó‰×ú1J$5f3e04b4-1985-4ae1-b00b-843baaa8d713
+o
+java:S1874,"-Remove this use of "query"; it is deprecated.(ç§Ú8òó‰×ú1J$18c55171-e03a-4832-a546-dece17a99fab
+p
+java:S18747"-Remove this use of "query"; it is deprecated.(¥Ïœ²8õó‰×ú1J$c0610210-2b1c-4f7d-8ed6-20ad36b416af
+Š
+java:S1128"BRemove this unused import 'com.example.lab1_servlet.db.DbContext'.(îÇìòıÿÿÿÿ8øó‰×ú1J$40edfd52-1267-4fed-ba1c-3d4c71bdacb4
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8øó‰×ú1J$cc7292e9-131e-4c3d-af57-f96d1900c751

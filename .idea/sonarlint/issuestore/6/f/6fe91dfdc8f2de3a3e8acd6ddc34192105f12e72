@@ -1,0 +1,9 @@
+
+½
+java:S6204."zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¤í²€û1J$8fd16923-4277-4bf9-8c94-16c73ad49750
+¶
+java:S11304"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¢™Á˜ûÿÿÿÿ8¹íâ€û1J$3bcb952b-23e0-40fe-87d0-ff59ae5da4b0
+
+java:S16127"GReplace this lambda with method reference 'UserNotFoundException::new'.(Ù¢°şÿÿÿÿ8§í²€û1J$128ac3aa-a1e7-444f-bd66-ceb00bc3ebab
+
+java:S1612="JReplace this lambda with method reference 'ProductNotFoundException::new'.(ÑàÙÒ8È×â€û1J$a4e67a2b-4f40-42e1-bb48-2c48e81f93a5

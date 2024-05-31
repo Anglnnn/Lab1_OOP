@@ -1,0 +1,30 @@
+
+	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ŞÎ“ú1J$68114cc6-a79c-4598-a7c8-2f09b250c789
+	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ„”ú1J$388eb6d1-c99c-4bb4-8322-811bf8d8df6c
+	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8²®”ú1J$0643b619-9425-486e-8945-7e92b85d5e1a
+™
+java:S1192("QDefine a constant instead of duplicating this literal "application/json" 3 times.(›ı’Àøÿÿÿÿ8Í‘‘ú1J$0b172156-d02a-4ba5-acb2-c415863c9d01
+
+java:S1192)"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(·Ù‡ˆÿÿÿÿÿ8Î‘‘ú1J$bea02388-572a-4447-9f96-7e451688f8da
+ƒ
+java:S2259"AA "NullPointerException" could be thrown; "ctx" is nullable here.(ÿÓ´8¾Æ¼ú1J$c70903e1-7d1e-4d7c-837a-48d8381aa121
+
+java:S1948"7Make "userControllerService" transient or serializable.(‹ÔŒüÿÿÿÿ8ÂÆ¼ú1J$98da3f7a-d5b0-4e59-9745-bab1d7e4f770
+i
+java:S1948"&Make "gson" transient or serializable.(ğŒ©8Æ‘“ú1J$dac0a013-cf5f-4de8-b49a-e5aa6345bbdf
+‰
+java:S1989%"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8ìÎ“ú1J$256f134d-cbb4-4880-a242-fe5f51870c22
+“
+java:S1989*"PHandle the following exception that could be thrown by "getWriter": IOException.(¼™½Õ8Ú‘‘ú1J$342ad2c2-a5a1-4abf-a164-d06917706e67
+‰
+java:S19894"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8›„”ú1J$3d2099f5-b644-4b39-a3ed-5283fd81325e
+“
+java:S19899"PHandle the following exception that could be thrown by "getWriter": IOException.(¼™½Õ8Û‘‘ú1J$998ad44c-6ce0-4a95-b8a2-1cbb2b2eacd6
+‰
+java:S1989C"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ8Æ®”ú1J$9145efea-f653-4ad8-9556-d30a64cbf9f4
+“
+java:S1989H"PHandle the following exception that could be thrown by "getWriter": IOException.(¼™½Õ8İ‘‘ú1J$209182bc-8d18-4575-baa5-aa1bb8549cd6
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‹ÔŒüÿÿÿÿ8Ş‘‘ú1J$3c717d61-eeb9-455d-b920-69ce11a099e0
+›
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ğŒ©8Ş‘‘ú1J$d3b7ddf5-e8b7-4ec1-b3d4-b16057ca674e

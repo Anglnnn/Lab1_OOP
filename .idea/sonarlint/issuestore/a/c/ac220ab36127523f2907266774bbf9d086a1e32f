@@ -1,0 +1,15 @@
+
+„
+java:S2259K"AA "NullPointerException" could be thrown; "key" is nullable here.(êã‡8ˆŒ™‡û1J$8ff829cd-a681-4d1e-8af1-ddc1fd9cf715
+u
+java:S1874$"-Remove this use of "query"; it is deprecated.(»íË›üÿÿÿÿ8şŠÛû1J$b004ecb1-612d-43f6-a78d-b223edc6516a
+u
+java:S18741"-Remove this use of "query"; it is deprecated.(ë¡à×øÿÿÿÿ8ÿŠÛû1J$74487a18-edc6-4dc6-8581-58588067c487
+¼
+java:S6204e"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ƒË½08„‹Ûû1J$5eb29c2e-33ff-4500-b90a-0b52c89ae8a9
+S
+java:S1874p"6Remove this use of "queryForObject"; it is deprecated.(‹ºÍ¶8´À¶‰û1
+q
+java:S1874…"-Remove this use of "query"; it is deprecated.(˜¢°±8¡Å²‰û1J$6bf056bc-1e0d-482b-b539-4755135d7b04
+d
+java:S1128"BRemove this unused import 'com.example.lab1_servlet.db.DbContext'.(îÇìòıÿÿÿÿ8¸À¶‰û1
