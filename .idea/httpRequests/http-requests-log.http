@@ -1,0 +1,26 @@
+POST http://localhost:8080/realms/Shop/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 118
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+client_id=Shop_client&client_secret=4X3fHtTJEPOAFC7aVzzTuwXu4PCRFmO1&username=myuser&password=1234&grant_type=password
+
+<> 2024-05-26T232442.200.json
+
+###
+
+POST http://localhost:8080/realms/Shop/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 118
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+client_id=Shop_client&client_secret=LQ9f0R0kBAKGOyAiyH3uGtAQeFBO0umB&username=myuser&password=1234&grant_type=password
+
+<> 2024-05-26T232342.401.json
+
+###
+
